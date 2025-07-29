@@ -147,11 +147,10 @@ Visit: [http://localhost:8080](http://localhost:8080)
 
 ## Future Enhancements
 
-- 🔐 Add user authentication with Spring Security  
-- 💾 Switch to a production-ready database like PostgreSQL or MySQL  
-- 🎨 Build a frontend using React or Angular  
-- 📈 Add an admin dashboard for analytics  
-- 🧪 Write unit and integration tests  
+-  Add user authentication with Spring Security    
+-  Build a frontend using React or Angular  
+-  Add an admin dashboard for analytics  
+-  Write unit and integration tests  
 
 ---
 
